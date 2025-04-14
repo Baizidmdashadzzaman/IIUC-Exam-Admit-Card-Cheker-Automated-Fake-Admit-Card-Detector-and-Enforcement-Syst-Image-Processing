@@ -1,5 +1,5 @@
 Project Title:
-IIUC-AdmitSentry: Automated Fake Admit Card Detector & Enforcement System
+IIUC-Exam-Admit-Card-Cheker : Automated Fake Admit Card Detector & Enforcement System Using Image Processing
 
 Detailed Description:
 
