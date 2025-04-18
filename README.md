@@ -23,3 +23,9 @@ Provides an intuitive interface for exam invigilators and administrative staff t
 Secure & Scalable Design:
 Engineered to integrate seamlessly within the IIUC exam management systems, ensuring data security and easy scalability. The system can be updated to incorporate new security features as document standards evolve.
 
+
+# Setup
+python -m venv venv
+source venv/Scripts/activate
+
+
