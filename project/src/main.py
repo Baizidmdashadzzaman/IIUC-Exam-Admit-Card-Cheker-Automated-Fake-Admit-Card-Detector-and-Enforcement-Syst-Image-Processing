@@ -2,8 +2,15 @@ import json
 from preprocessing import preprocess
 from ocr_engine import image_to_text
 from parser import parse_fields, courses_to_df
+import os
 
 def run(image_path: str, json_out: str = None, csv_out: str = None):
+    # image_path = "image.jpg"
+
+    if not os.path.isfile(image_path):
+        print(f"[✘] Image file not found: {image_path}")
+        return
+
     img = preprocess(image_path)
     raw = image_to_text(img)
     data = parse_fields(raw)
