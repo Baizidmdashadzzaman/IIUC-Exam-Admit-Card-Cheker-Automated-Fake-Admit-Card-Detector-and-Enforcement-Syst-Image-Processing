@@ -1,69 +1,13 @@
 {
-  "session": "Spring-2025 Registered Courses : Semester Enrolled: 8",
+  "session": null,
   "id_no": null,
-  "reg_no": "0062120005101008",
-  "name": "BAIZID KAMRUZZAMAN CSE-4744 Computer Security Lab 1",
-  "father": "MD JAHANGIR ALAM CSE-4805 Social, Professional and Ethical Issues in Computing 2",
+  "reg_no": null,
+  "name": null,
+  "father": null,
   "mother": "SA KHATUN CSE-4871 Neural Network and Fuzzy System 3",
   "section": null,
   "program": null,
-  "print_date": "2025-04-13",
-  "semester": "8",
-  "courses": [
-    {
-      "code": "MGT-3601",
-      "title": "Industrial Management",
-      "credit": 2
-    },
-    {
-      "code": "CSE-4743",
-      "title": "Computer Security",
-      "credit": 2
-    },
-    {
-      "code": "CSE-4744",
-      "title": "Computer Security Lab",
-      "credit": 1
-    },
-    {
-      "code": "CSE-4800",
-      "title": "Project / Thesis",
-      "credit": 4
-    },
-    {
-      "code": "CSE-4805",
-      "title": "Social, Professional and Ethical Issues in Computing",
-      "credit": 2
-    },
-    {
-      "code": "CSE-4822",
-      "title": "General Viva",
-      "credit": 1
-    },
-    {
-      "code": "CSE-4871",
-      "title": "Neural Network and Fuzzy System",
-      "credit": 3
-    },
-    {
-      "code": "CSE-4872",
-      "title": "Neural Network and Fuzzy System Lab",
-      "credit": 1
-    },
-    {
-      "code": "CSE-4875",
-      "title": "Pattern Recognition and Image Processing",
-      "credit": 3
-    },
-    {
-      "code": "CSE-4876",
-      "title": "Pattern Recognition and Image Processing Lab",
-      "credit": 1
-    },
-    {
-      "code": "CSE-4708",
-      "title": "Field Work",
-      "credit": 1
-    }
-  ]
+  "print_date": null,
+  "semester": null,
+  "courses": []
 }
