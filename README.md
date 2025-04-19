@@ -1,4 +1,4 @@
-# Project Title: IIUC-Exam-Admit-Card-Cheker : Automated Fake Admit Card Detector & Enforcement System Using Image Processing
+# IIUC-Exam-Admit-Card-Cheker : Automated Fake Admit Card Detector & Enforcement System Using Image Processing
 
 # Detailed Description:
 
